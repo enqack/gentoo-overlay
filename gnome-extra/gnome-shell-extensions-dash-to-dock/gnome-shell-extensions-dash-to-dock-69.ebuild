@@ -21,7 +21,7 @@ SRC_URI="https://github.com/micheleg/dash-to-dock/archive/extensions.gnome.org-v
 # unpacked) inside ${WORKDIR}.  The default value for S is ${WORKDIR}/${P}
 # If you don't need to change it, leave the S= line out of the ebuild
 # to keep it tidy.
-S="${WORKDIR}/dash-to-dock-exnstions.gnome.org-v69"
+S="${WORKDIR}/dash-to-dock-extensions.gnome.org-v69"
 
 
 # License of the package.  This must match the name of file(s) in the
