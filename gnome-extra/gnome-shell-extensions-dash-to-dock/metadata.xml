@@ -17,9 +17,9 @@
     <description>Primary maintainer</description>
   </maintainer>
   <longdescription>
-  	Dash to dock extension is an enhanced dash for GNOME Shell. It moves the
-	default dash out of the overview and transforms it into a dock for easier
-	launching of applications and a faster switching between windows and 
-	workspaces without leaving the desktop view.
+   Dash to dock extension is an enhanced dash for GNOME Shell. It moves the
+   default dash out of the overview and transforms it into a dock for easier
+   launching of applications and a faster switching between windows and 
+   workspaces without leaving the desktop view.
   </longdescription>
 </pkgmetadata>

@@ -9,10 +9,10 @@ DESCRIPTION="Dash to dock extension is an enhanced dash for GNOME Shell"
 
 HOMEPAGE="https://micheleg.github.io/dash-to-dock"
 
-SRC_URI="https://github.com/micheleg/dash-to-dock/archive/extensions.gnome.org-v69.tar.gz"
+SRC_URI="https://github.com/micheleg/dash-to-dock/archive/extensions.gnome.org-v68.tar.gz"
 
 # Source directory
-S="${WORKDIR}/dash-to-dock-extensions.gnome.org-v69"
+S="${WORKDIR}/dash-to-dock-extensions.gnome.org-v68"
 
 # License of the package.  This must match the name of file(s) in the
 # licenses/ directory.  For complex license combination see the developer
