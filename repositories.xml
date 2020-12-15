@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE repositories SYSTEM "https://www.gentoo.org/dtd/repositories.dtd">
+<repositories xmlns="" version="1.0">
+    <repo quality="experimental" status="unofficial">
+        <name><![CDATA[enqack]]></name>
+        <description lang="en"><![CDATA[several ebuilds]]></description>
+        <homepage>https://github.com/enqack/gentoo-overlay</homepage>
+        <owner type="person">
+            <email>enqack@gmail.com</email>
+            <name><![CDATA[Enqack]]></name>
+        </owner>
+        <source type="git">git://github.com/enqack/gentoo-overlay.git</source>
+        <source type="git">https://github.com/enqack/gentoo-overlay.git</source>
+        <source type="git">git@github.com:enqack/gentoo-overlay.git</source>
+        <feed>https://github.com/enqack/gentoo-overlay/commits/master.atom</feed>
+    </repo>
+</repositories>
